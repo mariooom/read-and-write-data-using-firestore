@@ -1,21 +1,19 @@
-<<<<<<< HEAD
-# read-and-write-data-using-firestore
-Creating a simple project that takes some info from the user and displays it and saves it on Firestore.
-=======
-# infodisplay
+# Flutter Input Form with Icons
 
-A new Flutter project.
+This is a simple Flutter app that demonstrates how to create an input form to store user's data using firestore and retrieve data from firestore database to display it in the app. 
 
-## Getting Started
+## Features
+- **Input Fields**: Users can enter their name, email, age and favourite hobby.
+- **Add User Button**: A button to submit the form.
+- **View Users List**: A button to display users' data that were stored.
+  
+## Packages
+- **firebase_core: ^3.10.1**
+- **cloud_firestore: ^5.6.2**
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/ca08eae5-52a7-4ae3-831d-ca75d46e9198)
+![image](https://github.com/user-attachments/assets/edb976b6-4d45-4ccb-9a9b-3f634837d57d)
+![image](https://github.com/user-attachments/assets/93e98151-69ad-4c65-b326-44a88cc5e8c8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 198885d (Creating an iput form to store data and display page to view user's dat)
