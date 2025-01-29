@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228792292130",
+    "project_id": "infodisplay-25291",
+    "storage_bucket": "infodisplay-25291.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228792292130:android:cae7c8ca009aad86564b7b",
+        "android_client_info": {
+          "package_name": "com.example.infodisplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVmh30Bg0HO6pVp4VtKK66yFmpNBet-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
